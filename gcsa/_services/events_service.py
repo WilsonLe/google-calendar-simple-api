@@ -69,7 +69,7 @@ class EventsService(BaseService):
         """Lists events.
 
         :param time_min:
-                Staring date/datetime
+                Starting date/datetime
         :param time_max:
                 Ending date/datetime
         :param order_by:
