@@ -3,6 +3,20 @@
 Change log
 ==========
 
+v2.5.1
+~~~~~~
+
+API
+---
+* Fixed comment typo
+
+Core
+----
+* None
+
+Backward compatibility
+----------------------
+* Full compatibility
 
 v2.5.0
 ~~~~~~
