@@ -179,7 +179,7 @@ autoclass_content = 'both'
 autodoc_member_order = 'bysource'
 autodoc_typehints = "description"
 
-googleanalytics_id = 'G-PT0TPQSZ56'
+googleanalytics_id = 'G-X3GDQM7S79'
 
 html_css_files = [
     'css/custom.css',
